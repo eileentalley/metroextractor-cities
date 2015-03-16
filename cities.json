@@ -1037,6 +1037,13 @@
                         "bottom": "47.482",
                         "right": "7.687"
                     }
+                "beauvais_france"
+                    "bbox": {
+                        "top": "49.470",
+                        "left": "2.014",
+                        "bottom": "49.399",
+                        "right": "2.173"
+                    }
                 },
                 "belfast_ireland": {
                     "bbox": {
